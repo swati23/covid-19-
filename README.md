@@ -13,7 +13,5 @@ step 1: Find confirmed data group by ObservationDate and visualized it
 Step2: Apply Linear Regression ( After spliting data set- Train)ml, test_ml)
        Find predicted confirmed cases then plot a graph between actual and predicted 
        
-       ![](https://user-images.githubusercontent.com/10259235/80804569-357d8400-8bd3-11ea-9fb2-8544512a9823.png)
-
-
+Step3: Applied ARIMA as it is time series data set ..............
 
