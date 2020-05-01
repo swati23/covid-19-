@@ -13,7 +13,8 @@ step 1: Find confirmed data group by ObservationDate and visualized it
 Step2: Apply Linear Regression ( After spliting data set- Train)ml, test_ml)
        Find predicted confirmed cases then plot a graph between actual and predicted 
        
-       ![image](https://user-images.githubusercontent.com/10259235/80803861-23024b00-8bd1-11ea-8d20-46ef1b69c127.png)
+       ![image]
+       (https://user-images.githubusercontent.com/10259235/80803861-23024b00-8bd1-11ea-8d20-46ef1b69c127.png)
 
 
 
